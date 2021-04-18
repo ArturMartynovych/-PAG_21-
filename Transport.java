@@ -124,7 +124,9 @@ public class Transport {
                 (getSitsAmount() == 0.0 ? "" : (", has " + getSitsAmount()) + " sit(s)") +
                 (getWheelAmount() == 0.0 ? "" : (", has " + getWheelAmount()) + " wheel(s)") +
                 (getWeight() == 0.0 ? "" : (", has " + getWeight()) +  " tone(s)") +
-                " is" + (isNew() ? "" : " not") + " new.";
+                " is" + (isNew() ? "" : " not") + " new." +
+                " the price is " + (getPrice()) + " dollars.";
+
     }
 
     public double getPrice() {
