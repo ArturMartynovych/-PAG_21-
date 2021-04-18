@@ -1,7 +1,3 @@
-package zad1;
-
-import com.company.Box;
-
 import java.util.Objects;
 
 public class Transport {

@@ -1,7 +1,3 @@
-package zad1;
-
-import com.company.ToolBox;
-
 import java.util.ArrayList;
 import java.util.Objects;
 

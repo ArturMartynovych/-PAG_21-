@@ -1,5 +1,3 @@
-package zad1;
-
 public class CarAccessory{
 
     private double carAccessoryWeight;
